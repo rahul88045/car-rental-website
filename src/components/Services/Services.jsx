@@ -10,7 +10,7 @@ const skillsData = [
       <FaCameraRetro className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "At CGO, we believe that quality doesn't have to come at a high price. Our competitive pricing ensures you get the best rates without compromising on service. Whether you're heading out for a weekend getaway or managing daily commutes, we offer affordable solutions that keep your budget in check. Learn more about our unbeatable rates and special offers designed to give you the best value every time you book.",
     aosDelay: "0",
   },
   {
@@ -19,7 +19,7 @@ const skillsData = [
       <GiNotebook className="text-5xl text-primary group-hover:text-black duration-300" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Your safety is our top priority. With CGO, enjoy the peace of mind that comes from a service that values your well-being above all. Our vehicles are regularly maintained to the highest standards, and our routes are optimized for the quickest and safest travel. Experience a hassle-free journey where you and your loved ones are secure, letting you focus on what really matters—enjoying the ride.",
     aosDelay: "500",
   },
   {
@@ -28,7 +28,7 @@ const skillsData = [
       <SlNote className="text-5xl text-primary group-hover:text-black duration-500" />
     ),
     link: "#",
-    description: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+    description: "Our drivers are more than just drivers; they are road specialists who bring years of experience to ensure that your journey is smooth and pleasant. At CGO, each driver is rigorously trained and vetted, possessing an intimate knowledge of the routes along with excellent driving skills. With our seasoned professionals behind the wheel, every journey is a promise of reliability, comfort, and a personal touch.",
     aosDelay: "1000",
   },
 ];

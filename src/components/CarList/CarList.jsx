@@ -47,6 +47,7 @@ const CarList = () => {
                 data-aos="fade-up"
                 data-aos-delay={data.aosDelay}
                 className="space-y-3 border-2 border-gray-300 hover:border-primary p-3 rounded-xl relative group"
+                key={data.name}
               >
                 <div className="w-full h-[120px]">
                   <img

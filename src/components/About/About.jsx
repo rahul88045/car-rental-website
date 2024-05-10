@@ -22,13 +22,15 @@ const About = () => {
                 About us
               </h1>
               <p data-aos="fade-up" className="leading-8 tracking-wide">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Aspernatur, magnam! Tenetur odio quo et maxime?
+              At CGO, we go beyond the ordinary to deliver exceptional travel experiences. 
+              Specializing in outstation rides and carpool services, we understand that long journeys require more than just a driver; 
+              they require a travel companion who is skilled, reliable, and well-versed in the routes they traverse. 
+              That's why every CGO driver is meticulously selected to ensure they meet the highest standards of proficiency and customer service.
               </p>
-              <p data-aos="fade-up">
+              {/* <p data-aos="fade-up">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
                 tempora.
-              </p>
+              </p> */}
               <button data-aos="fade-up" className="button-outline">
                 Get Started
               </button>
