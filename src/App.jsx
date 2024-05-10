@@ -12,6 +12,7 @@ import AppStoreBanner from "./components/AppStoreBanner/AppStoreBanner";
 import Contact from "./components/Contact/Contact";
 import Testimonial from "./components/Testimonial/Testimonial";
 import Footer from "./components/Footer/Footer";
+import Form from "./components/Form/Form";
 
 const App = () => {
   // dark mode start
@@ -48,7 +49,8 @@ const App = () => {
       <Services />
       <CarList />
       <Testimonial />
-      <AppStoreBanner />
+      {/* <AppStoreBanner /> */}
+      <Form></Form>
       <Contact />
       <Footer />
     </div>

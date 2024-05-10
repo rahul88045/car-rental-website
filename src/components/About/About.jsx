@@ -1,5 +1,6 @@
+// eslint-disable-next-line no-unused-vars
 import React from "react";
-import CarPng from "../../assets/car1.png";
+import CarPng from "../../assets/car11-gPlAmcRy.png";
 
 const About = () => {
   return (

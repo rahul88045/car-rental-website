@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import carPng from "../../assets/car.png";
-import yellowCar from "../../assets/banner-car.png";
+import carPng from "../../assets/car8-dZ4PIOXP.png";
+import yellowCar from "../../assets/car10-T7VhcJY8.png";
 import AOS from "aos";
 
 const Hero = ({ theme }) => {
@@ -35,8 +35,7 @@ const Hero = ({ theme }) => {
               Car Rental
             </h1>
             <p data-aos="fade-up" data-aos-delay="1000">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione
-              veritatis explicabo quibusdam quae reprehenderit ab{" "}
+            From doorstep to destination, trust us for a seamless transportation sensation!
             </p>
             <button
               data-aos="fade-up"
