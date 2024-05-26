@@ -33,37 +33,36 @@ const Footer = () => {
           {/* company Details */}
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3 font-serif">
-              Car Rental
+              Cab Services
             </h1>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              From doorstep to destination, trust us for a seamless transportation sensation!
             </p>
             <br />
             <div className="flex items-center gap-3">
               <FaLocationArrow />
-              <p>Noida, Uttar Pradesh</p>
+              <p>Jamshedpur, Jharkhand</p>
             </div>
             <div className="flex items-center gap-3 mt-3">
               <FaMobileAlt />
-              <p>+91 123456789</p>
+              <p>support@cgorides.com</p>
             </div>
             {/* Social Handle */}
             <div className="flex items-center gap-3 mt-6">
-              <a href="#">
+              <a href="https://www.instagram.com/cabs.cgo?igsh=Z3B3OHp4NjhtN3A4">
                 <FaInstagram className="text-3xl hover:text-primary duration-300" />
               </a>
-              <a href="#">
+              <a href="https://www.facebook.com/profile.php?id=61559952008403&sfnsn=wa">
                 <FaFacebook className="text-3xl hover:text-primary duration-300" />
               </a>
-              <a href="#">
+              {/* <a href="#">
                 <FaLinkedin className="text-3xl hover:text-primary duration-300" />
-              </a>
+              </a> */}
             </div>
           </div>
           {/* Links */}
           <div className="grid grid-cols-2 sm:grid-cols-3 col-span-2 md:pl-10 ">
-            <div className="">
+            {/* <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
                   Important Links
@@ -77,8 +76,8 @@ const Footer = () => {
                   ))}
                 </ul>
               </div>
-            </div>
-            <div className="">
+            </div> */}
+            {/* <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
                   Links
@@ -92,13 +91,12 @@ const Footer = () => {
                   ))}
                 </ul>
               </div>
-            </div>
-            <div className="">
+            </div> */}
+            {/* <div className="">
               <div className="py-8 px-4 ">
                 <h1 className="sm:text-xl text-xl font-bold sm:text-left text-justify mb-3">
                   Location
                 </h1>
-                {/* <ul className="list-disc list-inside"> */}
                 <ul className="flex flex-col gap-3">
                   {FooterLinks.map((link) => (
                     <li className="cursor-pointer hover:translate-x-1 duration-300 hover:!text-primary space-x-1 text-gray-500 dark:text-gray-200">
@@ -108,7 +106,7 @@ const Footer = () => {
                   ))}
                 </ul>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
