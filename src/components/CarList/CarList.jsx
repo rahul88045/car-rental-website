@@ -71,6 +71,8 @@ const carList = [
 
 const CarList = () => {
   return (
+    <>
+    <span id="cars"></span>
     <div className="pb-24">
       <div className="container">
         {/* Heading */}
@@ -137,6 +139,8 @@ const CarList = () => {
         </div> */}
       </div>
     </div>
+    </>
+    
   );
 };
 

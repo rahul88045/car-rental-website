@@ -17,6 +17,8 @@ export default function Form() {
     };
 
     return (
+        <>
+        <span id="booking"></span>
         <div className="container">
             <form className="flex flex-col flex-grow ml-30" onSubmit={handleSubmit}>
                 <div className="mt-10">
@@ -195,5 +197,7 @@ export default function Form() {
                 </div>
             </form>
         </div>
+        </>
+        
     );
 }

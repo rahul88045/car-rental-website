@@ -51,7 +51,7 @@ const App = () => {
       {/* <Testimonial /> */}
       {/* <AppStoreBanner /> */}
       <Form></Form>
-      <Contact />
+      {/* <Contact /> */}
       <Footer />
     </div>
   );
